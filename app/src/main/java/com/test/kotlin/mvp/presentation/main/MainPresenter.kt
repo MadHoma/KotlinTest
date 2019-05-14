@@ -1,10 +1,11 @@
-package com.test.kotlin.mvp.presentation
+package com.test.kotlin.mvp.presentation.main
 
 import android.annotation.SuppressLint
 import com.arellomobile.mvp.InjectViewState
 import com.test.kotlin.R
 import com.test.kotlin.mvp.model.api.MainApi
-import com.test.kotlin.mvp.view.MainView
+import com.test.kotlin.mvp.presentation.BasePresenter
+import com.test.kotlin.mvp.view.main.MainView
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 import java.net.UnknownHostException

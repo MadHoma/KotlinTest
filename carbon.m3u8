@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10555392,RESOLUTION=1080x1920,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://s3.amazonaws.com/workout-video.rise/Carbon+workout_Joonas_CC.mov
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=887808,RESOLUTION=600x1066,CODECS="avc1.77.30,mp4a.40.2"
+https://s3.amazonaws.com/workout-video.rise/Carbon%2Bworkout_Joonas_low_quality.mov
